@@ -1,0 +1,7 @@
+c:\users\lenovo\documents\visual studio 2010\Projects\RenameFile\RenameFile\bin\Debug\RenameFile.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\RenameFile\RenameFile\bin\Debug\RenameFile.pdb
+c:\users\lenovo\documents\visual studio 2010\Projects\RenameFile\RenameFile\obj\x86\Debug\RenameFile.Form1.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\RenameFile\RenameFile\obj\x86\Debug\RenameFile.Properties.Resources.resources
+c:\users\lenovo\documents\visual studio 2010\Projects\RenameFile\RenameFile\obj\x86\Debug\RenameFile.csproj.GenerateResource.Cache
+c:\users\lenovo\documents\visual studio 2010\Projects\RenameFile\RenameFile\obj\x86\Debug\RenameFile.exe
+c:\users\lenovo\documents\visual studio 2010\Projects\RenameFile\RenameFile\obj\x86\Debug\RenameFile.pdb
